@@ -6,6 +6,11 @@ and this project adheres to
 
 ## [Unreleased]
 
+### Added
+- Makefile to create shared library
+- Initial code for parsing resource fork header
+- Code to parse AppleSingle and AppleDouble Files for resource file within
+
 ## [0.0.0] - 2022-11-27
 
 ### Added 
@@ -14,4 +19,4 @@ and this project adheres to
     - Code of Conduct, Contributing
 
 [Unreleased]: (https://github.com/primis/mrfp/compare/v0.0.0...HEAD)
-[0.0.0]: (https://github.com/primis/mrfp/releasestag/v0.0.0)
+[0.0.0]: (https://github.com/primis/mrfp/releases/tag/v0.0.0)
